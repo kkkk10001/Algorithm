@@ -23,3 +23,4 @@ int main() {
 		cout << arr[i] << "\n";
 	}
 }
+
